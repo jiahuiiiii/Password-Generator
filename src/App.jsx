@@ -5,7 +5,6 @@ import copy from "copy-to-clipboard";
 import "animate.css";
 import PerfectScrollbar from "react-perfect-scrollbar";
 import "react-perfect-scrollbar/dist/css/styles.css";
-import InputNumber from "react-input-number";
 
 function Checkbox({ value, setValue }) {
   return (
