@@ -7,7 +7,7 @@ https://password-generator-mrga.vercel.app/
 
 A simple password generator app.
 
-Guieded by @melvinchia3636 
+Guieded by [@melvinchia3636](https://github.com/melvinchia3636)
 
 > MRGA YYDS ᕙ(  •̀ ᗜ •́  )ᕗ 
 
