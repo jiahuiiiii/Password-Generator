@@ -9,12 +9,18 @@
   },
   "dependencies": {
     "@iconify/react": "^3.2.1",
+    "animate.css": "^4.1.1",
+    "copy-to-clipboard": "^3.3.1",
     "rc-slider": "^10.0.0-alpha.6",
     "react": "^17.0.2",
     "react-compound-slider": "^3.3.1",
     "react-dom": "^17.0.2",
+    "react-input-number": "^5.0.19",
+    "react-perfect-scrollbar": "^1.5.8",
     "react-slider": "^2.0.0",
-    "sass": "^1.49.11"
+    "react-smooth-scrollbar": "^8.0.6",
+    "sass": "^1.49.11",
+    "smooth-scrollbar": "^8.7.4"
   },
   "devDependencies": {
     "@vitejs/plugin-react": "^1.0.7",
